@@ -5,8 +5,6 @@
 Assignment 3
 ============
 
-This assignment is due on **Wednesday, May 27 2020** at 11:59pm PDT.
-
 Handy Download Links
 
 *   [Option A: Colab starter code](https://cs231n.github.io/assignments/2020/assignment3_colab.zip)
