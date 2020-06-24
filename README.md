@@ -1,16 +1,16 @@
-# CS231n: Convolutional Neural Networks for Visual Recognition - Notes and Assignment Solutions
+# CS231n: Convolutional Neural Networks for Visual Recognition - Assignment Solutions
 
-This repository contains my notes and solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) "Convolutional Neural Networks for Visual Recognition" course offered by Stanford University (Spring 2020).
+This repository contains my solutions to the assignments for Stanford's [CS231n](http://cs231n.stanford.edu/) "Convolutional Neural Networks for Visual Recognition" course (Spring 2020).
 
-Stanford's CS231n is one of the best ways to dive into Deep Learning in general, in particular, into Computer Vision. If you plan to excel in another subfield of Deep Learning (say, Natural Language Processing or Reinforcement Learning), we still recommend that you start with cs231n, because it gives you fundamental understanding and hands-on skills. Beware, the course is very challenging! 
+Stanford's CS231n is one of the best ways to dive into Deep Learning in general, in particular, into Computer Vision. If you plan to excel in another subfield of Deep Learning (say, Natural Language Processing or Reinforcement Learning), we still recommend that you start with CS231n, because it helps build intuition, fundamental understanding and hands-on skills. Beware, the course is very challenging! 
 
-To motivate you to work as hard as Stanford's students, here are actual applications that you'll implement in A3 - Style Transfer and Class Visualization. 
+To motivate you to work hard, here are actual applications that you'll implement in A3 - Style Transfer and Class Visualization. 
 
 <p align=center><img src=https://habrastorage.org/webt/ik/ny/o4/iknyo4fnkbokzoavq6nlsuitc6y.png align=center /><img src=https://habrastorage.org/webt/8t/go/qa/8tgoqaoa1vwmiuagfkx0i4nkjmm.png align=center /></p>
 
 For the one on the left, you take a base image and a style image and apply the "style" to the base image (reminds you of Prisma and Artisto, right?). The example on the right is a random image, gradually perturbed in a way that a neural network classifies it more and more confidently as a gorilla. DIY Deep Dream, isn't it? And it's all math under the hood, it's cool to figure out how it all works. You'll get to this understanding with CS231n, it'll be hard but at the same time an exciting journey from a simple kNN implementation to these fascinating applications. If you think that these two applications are eye-catchy, then take another look at the picture above - a Convolutional Neural Network classifying images. That's the basics of how machines can "see" the world. The course will teach you both how to build such an algorithm from scratch and how to use modern tools to run state-of-the-art models for your tasks. 
 
-Find course notes and assignments are [here](http://cs231n.github.io) and be sure to check out the video lectures for [Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)!
+Find course notes and assignments [here](http://cs231n.github.io) and be sure to check out the video lectures for [Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)!
 
 Assignments have been completed using both TensorFlow and PyTorch.
 
@@ -64,9 +64,9 @@ Q4: Style Transfer ([PyTorch](assignment3/StyleTransfer-PyTorch.ipynb) / [Tensor
 Q5: Generative Adversarial Networks ([PyTorch](assignment3/Generative_Adversarial_Networks_PyTorch.ipynb) / [TensorFlow v2](assignment3/Generative_Adversarial_Networks_TF.ipynb) / [TensorFlow v1](assignment3/Generative_Adversarial_Networks_TF_v1.ipynb))
 
 ## Course notes
+- My [course notes](https://github.com/amanchadha/stanford-cs231n-notes-2020/tree/master/notes)
 - Official [course notes](https://cs231n.github.io/)
-- Unofficial [course notes](https://github.com/amanchadha/stanford-cs231n-2020/tree/master/notes)
-- [Reading material](https://github.com/amanchadha/stanford-cs231n-2020/tree/master/assignment2/Reading%20material) that I found to be useful for Assignment 2 
+- Reading material that I found to be useful for [Assignment 2](assignment2/Reading%20material) and [Assignment 3](assignment3/Reading%20material)
 
 ## GPUs
 For some parts of the 3rd assignment, you'll need GPUs. Kaggle Kernels or Google Colaboratory will do.
