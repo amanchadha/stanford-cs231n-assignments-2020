@@ -15,32 +15,32 @@ Find course notes and assignments [here](http://cs231n.github.io) and be sure to
 Assignments have been completed using both TensorFlow and PyTorch.
 
 ## Assignment #1: Image Classification, kNN, SVM, Softmax, Neural Network
-Q1: [k-Nearest Neighbor Classifier](assignment1/knn.ipynb)
+Q1: [k-Nearest Neighbor Classifier](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment1/knn.ipynb)
 - Test accuracy on CIFAR-10: 0.282
 
-Q2: [Training a Support Vector Machine](assignment1/svm.ipynb)
+Q2: [Training a Support Vector Machine](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment1/svm.ipynb)
 - Test accuracy on CIFAR-10: 0.376
 
-Q3: [Implement a Softmax classifier](assignment1/softmax.ipynb)
+Q3: [Implement a Softmax classifier](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment1/softmax.ipynb)
 - Test accuracy on CIFAR-10: 0.355
 
-Q4: [Two-Layer Neural Network](assignment1/two_layer_net.ipynb)
+Q4: [Two-Layer Neural Network](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment1/two_layer_net.ipynb)
 - Test accuracy on CIFAR-10: 0.501
 
-Q5: [Higher Level Representations: Image Features](assignment1/features.ipynb)
+Q5: [Higher Level Representations: Image Features](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment1/features.ipynb)
 - Test accuracy on CIFAR-10: 0.576
 
 ## Assignment #2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
-Q1: [Fully-connected Neural Network](assignment2/FullyConnectedNets.ipynb)
+Q1: [Fully-connected Neural Network](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/FullyConnectedNets.ipynb)
 - Validation / test accuracy on CIFAR-10: 0.547 / 0.539
 
-Q2: [Batch Normalization](assignment2/BatchNormalization.ipynb)
+Q2: [Batch Normalization](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/BatchNormalization.ipynb)
 
-Q3: [Dropout](assignment2/Dropout.ipynb)
+Q3: [Dropout](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/Dropout.ipynb)
 
-Q4: [Convolutional Networks](assignment2/ConvolutionalNetworks.ipynb)
+Q4: [Convolutional Networks](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/ConvolutionalNetworks.ipynb)
 
-Q5: [PyTorch](assignment2/PyTorch.ipynb) / [TensorFlow v2](assignment2/TensorFlow.ipynb) on CIFAR-10 / [TensorFlow v1](assignment2/TensorFlow_v1.ipynb) ([Tweaked TFv1 model](assignment2/TensorFlow_Tweaked_Model_v1.ipynb))
+Q5: [PyTorch](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/PyTorch.ipynb) / [TensorFlow v2](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/TensorFlow.ipynb) on CIFAR-10 / [TensorFlow v1](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/TensorFlow_v1.ipynb) ([Tweaked TFv1 model](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/TensorFlow_Tweaked_Model_v1.ipynb))
 - Training / validation / test accuracy of TF implementation on CIFAR-10: 0.928 / 0.801 / 0.822
 - PyTorch implementation:
 
@@ -53,20 +53,20 @@ Q5: [PyTorch](assignment2/PyTorch.ipynb) / [TensorFlow v2](assignment2/TensorFlo
 | ResNet-101  | 99.99 | 93.76 |
 
 ## Assignment #3: Image Captioning with Vanilla RNNs, Image Captioning with LSTMs, Network Visualization, Style Transfer, Generative Adversarial Networks
-Q1: [Image Captioning with Vanilla RNNs](assignment3/RNN_Captioning.ipynb)
+Q1: [Image Captioning with Vanilla RNNs](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/RNN_Captioning.ipynb)
 
-Q2: [Image Captioning with LSTMs](assignment3/LSTM_Captioning.ipynb)
+Q2: [Image Captioning with LSTMs](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/LSTM_Captioning.ipynb)
 
-Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images ([PyTorch](assignment3/NetworkVisualization-PyTorch.ipynb) / [TensorFlow v2](assignment3/NetworkVisualization-TensorFlow.ipynb) / [TensorFlow v1](assignment3/NetworkVisualization-TensorFlow_v1.ipynb))
+Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images ([PyTorch](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb) / [TensorFlow v2](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/NetworkVisualization-TensorFlow.ipynb) / [TensorFlow v1](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/NetworkVisualization-TensorFlow_v1.ipynb))
 
-Q4: Style Transfer ([PyTorch](assignment3/StyleTransfer-PyTorch.ipynb) / [TensorFlow v2](assignment3/StyleTransfer-TensorFlow.ipynb) / [TensorFlow v1](assignment3/StyleTransfer-TensorFlow_v1.ipynb))
+Q4: Style Transfer ([PyTorch](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/StyleTransfer-PyTorch.ipynb) / [TensorFlow v2](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/StyleTransfer-TensorFlow.ipynb) / [TensorFlow v1](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/StyleTransfer-TensorFlow_v1.ipynb))
 
-Q5: Generative Adversarial Networks ([PyTorch](assignment3/Generative_Adversarial_Networks_PyTorch.ipynb) / [TensorFlow v2](assignment3/Generative_Adversarial_Networks_TF.ipynb) / [TensorFlow v1](assignment3/Generative_Adversarial_Networks_TF_v1.ipynb))
+Q5: Generative Adversarial Networks ([PyTorch](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb) / [TensorFlow v2](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/Generative_Adversarial_Networks_TF.ipynb) / [TensorFlow v1](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/Generative_Adversarial_Networks_TF_v1.ipynb))
 
 ## Course notes
-- My [course notes](https://github.com/amanchadha/stanford-cs231n-notes-2020/tree/master/notes)
+- My [course notes](https://cs231.aman.ai)
 - Official [course notes](https://cs231n.github.io/)
-- Reading material that I found to be useful for [Assignment 2](assignment2/Reading%20material) and [Assignment 3](assignment3/Reading%20material)
+- Reading material that I found to be useful for [Assignment 2](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment2/Reading%20material) and [Assignment 3](https://nbviewer.jupyter.org/github/amanchadha/stanford-cs231n-assignments-2020/blob/master/assignment3/Reading%20material)
 
 ## GPUs
 For some parts of the 3rd assignment, you'll need GPUs. Kaggle Kernels or Google Colaboratory will do.
