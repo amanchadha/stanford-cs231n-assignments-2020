@@ -95,3 +95,7 @@ For some parts of the 3rd assignment, you'll need GPUs. Kaggle Kernels or Google
 - [Lecture 14](https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14)
 - [Lecture 15](https://www.youtube.com/watch?v=eZdOkDtYMoo) 
 - [Lecture 16](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
+
+## Disclaimer
+
+I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the solutions as-is (the assignments are fairly easy if you read the instructions carefully).
